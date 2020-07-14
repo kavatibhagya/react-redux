@@ -1,0 +1,13 @@
+.Countercontrol{
+    width:100px;
+    padding:16px;
+    margin:20px;
+    display: inline-block;
+    box-shadow: 2px 2px 2px#ccc;
+    color:white;
+    font-weight: 600;
+    background-color: rgba(29, 177, 16, 0.6);
+}
+.Countercontrol:hover{
+    background-color: rgba(29, 177, 16, 0.8);
+}
